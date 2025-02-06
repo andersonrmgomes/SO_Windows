@@ -43,7 +43,7 @@ Segue uma lista das principais versões do Windows para computadores pessoais:
 
 #### Exemplo de Imagem do Windows Desktop
 
-![Windows Desktop](https://blog.4partner.com.br/wp-content/uploads/01-Licenciamento-Windows-Server-2019-Guia-Completo-1.jpg)
+![Windows Desktop](https://blogs.embarcadero.com/wp-content/uploads/2021/06/Windows-11-Start-Dark-1000x562-5563437.jpg)
 
 ---
 
