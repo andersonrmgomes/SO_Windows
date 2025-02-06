@@ -63,7 +63,7 @@ As versões do Windows Server são destinadas a ambientes corporativos, oferecen
 
 #### Exemplo de Imagem do Windows Server
 
-![Windows Server](https://upload.wikimedia.org/wikipedia/commons/1/1e/Windows_Server_2019.png)
+![Windows Server](https://thecloudgeezer.com/wp-content/uploads/2021/07/WindowsServer2022-Screenshot-1024x576.png)
 
 ---
 
